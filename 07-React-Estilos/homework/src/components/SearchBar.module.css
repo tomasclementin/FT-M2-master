@@ -1,0 +1,17 @@
+.searchDiv {
+    display: flex;
+    justify-content: center;
+}
+
+.divSearch {
+    background-color: darkslategray;
+    width: 280px;
+    padding: 2px;
+}
+
+.searchButton {
+    background-color: darkslategray;
+    color: limegreen;
+    border: 1px solid limegreen;
+    margin-left: 5px;
+}
